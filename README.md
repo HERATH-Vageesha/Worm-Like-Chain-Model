@@ -1,3 +1,15 @@
-# Worm-Like-Chain-Model
-Calculating the end to end distance of ssDNA/dsDNA 
-For more information please refer to https://link-springer-com.proxy.library.emory.edu/search?query=worm&facet-eisbn=978-3-642-16712-6&facet-content-type=ReferenceWorkEntry
+# Worm-Like Chain (WLC) Model for ssDNA and dsDNA
+
+This repository contains a GitHub Pages version of my notes on the worm-like chain model.
+
+## View the equations-rendered page
+
+Open the site here once GitHub Pages is enabled:
+
+`https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/`
+
+## Files
+
+- `index.md` = the GitHub Pages page with MathJax rendering
+- `_layouts/default.html` = loads MathJax
+- `_config.yml` = Jekyll configuration
