@@ -13,3 +13,4 @@ Open the site here once GitHub Pages is enabled:
 - `index.md` = the GitHub Pages page with MathJax rendering
 - `_layouts/default.html` = loads MathJax
 - `_config.yml` = Jekyll configuration
+
